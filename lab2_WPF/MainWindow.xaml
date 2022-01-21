@@ -1,0 +1,50 @@
+﻿<Window x:Class="lab2_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab2_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <WrapPanel >
+            <Border Height="30" BorderBrush="#FFFF105C" BorderThickness="1" Margin="5">
+                <TextBlock Background="#FFFF82A4" Height="30" Width="100" TextAlignment="Center"  Padding="5" >№1</TextBlock>
+            </Border>
+            <Border Height="30" BorderBrush="#FF10B3FF" BorderThickness="1" Margin="5">
+                <TextBlock Background="#FF01DCFF" Height="30" Width="100" TextAlignment="Center"  Padding="5">№2</TextBlock>
+            </Border>
+            <Border Height="30" BorderBrush="#FFFF105C" BorderThickness="1" Margin="5">
+                <TextBlock Background="#FFFF82A4" Height="30" Width="100" TextAlignment="Center"  Padding="5" >№3</TextBlock>
+            </Border>
+            <Border Height="30" BorderBrush="#FF10B3FF" BorderThickness="1" Margin="5">
+                <TextBlock Background="#FF01DCFF" Height="30" Width="100" TextAlignment="Center"  Padding="5">№4</TextBlock>
+            </Border>
+            <Border Height="30" BorderBrush="#FFFF105C" BorderThickness="1" Margin="5">
+                <TextBlock Background="#FFFF82A4" Height="30" Width="100" TextAlignment="Center"  Padding="5" >№5</TextBlock>
+            </Border>
+            <Border Height="30" BorderBrush="#FF10B3FF" BorderThickness="1" Margin="5">
+                <TextBlock Background="#FF01DCFF" Height="30" Width="100" TextAlignment="Center"  Padding="5">№6</TextBlock>
+            </Border>
+            <Border Height="30" BorderBrush="#FFFF105C" BorderThickness="1" Margin="5">
+                <TextBlock Background="#FFFF82A4" Height="30" Width="100" TextAlignment="Center"  Padding="5" >№7</TextBlock>
+            </Border>
+            <Border Height="30" BorderBrush="#FF10B3FF" BorderThickness="1" Margin="5">
+                <TextBlock Background="#FF01DCFF" Height="30" Width="100" TextAlignment="Center"  Padding="5">№8</TextBlock>
+            </Border>
+            <Border Height="30" BorderBrush="#FFFF105C" BorderThickness="1" Margin="5">
+                <TextBlock Background="#FFFF82A4" Height="30" Width="100" TextAlignment="Center"  Padding="5" >№9</TextBlock>
+            </Border>
+            <Border Height="30" BorderBrush="#FF10B3FF" BorderThickness="1" Margin="5">
+                <TextBlock Background="#FF01DCFF" Height="30" Width="100" TextAlignment="Center"  Padding="5">№10</TextBlock>
+            </Border>
+            <Border Height="30" BorderBrush="#FFFF105C" BorderThickness="1" Margin="5">
+                <TextBlock Background="#FFFF82A4" Height="30" Width="100" TextAlignment="Center"  Padding="5" >№11</TextBlock>
+            </Border>
+            <Border Height="30" BorderBrush="#FF10B3FF" BorderThickness="1" Margin="5">
+                <TextBlock Background="#FF01DCFF" Height="30" Width="100" TextAlignment="Center"  Padding="5">№12</TextBlock>
+            </Border>
+        </WrapPanel>
+        
+    </Grid>
+</Window>
